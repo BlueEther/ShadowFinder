@@ -34,7 +34,7 @@ class ShadowFinder:
         self.fig = None
 
         self.angular_resolution = 0.5
-        self.min_lat = -60
+        self.min_lat = -85
         self.max_lat = 85
         self.min_lon = -180
         self.max_lon = 180
